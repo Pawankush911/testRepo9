@@ -1,4 +1,0 @@
-line1
-bcde2
-line3
-line4
